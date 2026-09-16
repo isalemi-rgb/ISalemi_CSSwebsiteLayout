@@ -1,6 +1,6 @@
 img{width: 20%; height: 75%;}
 #logo{width:75%; height: 75%}
-footer{height: 100%; width: 100%; background-color: skyblue; text-align: center;}
+footer{height: 100%; width: 100%; text-align: center;}
 #homebar{font-size: 20px}
 body{/*background-color: #9c8cb8;*/ text-align: center}
 ul{display: inline-block; text-align: left;}
@@ -11,7 +11,7 @@ h1{color: #250d36}
 #i3{color: darkorange}
 #i4{color: midnightblue}
 a{
-    /*text-decoration: none;*/
+    text-decoration: none;
     color: black;
 }
 .links a{
