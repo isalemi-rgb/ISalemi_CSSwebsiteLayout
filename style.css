@@ -1,15 +1,26 @@
 img{width: 20%; height: 75%;}
 #logo{width:75%; height: 75%}
+footer{height: 100%; width: 100%; background-color: skyblue; text-align: center;}
 #homebar{font-size: 20px}
 body{/*background-color: #9c8cb8;*/ text-align: center}
 ul{display: inline-block; text-align: left;}
 ol{display: inline-block; text-align: left;}
 h1{color: #250d36}
-a{text-decoration: none; color: black;}
-/*a{*/
-/*    width: 100%;*/
-/*    height: 100%;*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    justify-content: space-around;*/
-/*}*/
+#i1{color: darkslategrey}
+#i2{color: darkmagenta}
+#i3{color: darkorange}
+#i4{color: midnightblue}
+a{
+    /*text-decoration: none;*/
+    color: black;
+}
+.links a{
+    /*IT DOESN"T WORKKKKKKKKKKKKK*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*justify-content: space-around;*/
+
+    padding: 50px;
+}
